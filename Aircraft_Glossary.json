@@ -1,0 +1,104 @@
+{"AirCraft":"A-1","AirCraftName":"Douglas A-1 Skyraider","AirCraftType":"Fighter Jet"}
+{"AirCraft":"A-26","AirCraftName":"Douglas A-26 Invader","AirCraftType":"Light Bomber"}
+{"AirCraft":"A-37","AirCraftName":"Cessna A-37 Dragonfly","AirCraftType":"Light ground-attack aircraft"}
+{"AirCraft":"A-4","AirCraftName":"McDonnell Douglas A-4 Skyhawk","AirCraftType":"Fighter Jet"}
+{"AirCraft":"A-5","AirCraftName":"North American A-5 Vigilante","AirCraftType":"Bomber Jet"}
+{"AirCraft":"A-6","AirCraftName":"Grumman A-6 Intruder","AirCraftType":"Attack Aircraft"}
+{"AirCraft":"A-7","AirCraftName":"LTV A-7 Corsair II","AirCraftType":"Attack Aircraft"}
+{"AirCraft":"AC-119","AirCraftName":"Fairchild AC-119 Shadow or Stinger","AirCraftType":"Military Transport aircraft"}
+{"AirCraft":"AC-123","AirCraftName":"Fairchild C-123 Provider ","AirCraftType":"Military Transport aircraft"}
+{"AirCraft":"AC-130","AirCraftName":"Lockheed AC-130 Spectre","AirCraftType":"Fixed wing ground attack gunship"}
+{"AirCraft":"AC-47","AirCraftName":"Douglas AC-47 Spooky","AirCraftType":"Ground attack aircraft"}
+{"AirCraft":"AH-1","AirCraftName":"Bell AH-1 HueyCobra","AirCraftType":"Helicopter"}
+{"AirCraft":"B-1","AirCraftName":"Rockwell B-1 Lancer","AirCraftType":"Heavy strategic bomber"}
+{"AirCraft":"B-52","AirCraftName":"B-52 Stratofortress","AirCraftType":"Strategic bomber"}
+{"AirCraft":"B-57","AirCraftName":"Martin B-57 Canberra","AirCraftType":"Tactical Bomber"}
+{"AirCraft":"B-66","AirCraftName":"Douglas B-66 Destroyer","AirCraftType":"Light Bomber"}
+{"AirCraft":"C-1","AirCraftName":"Grumman C-1A Trader","AirCraftType":"Transport"}
+{"AirCraft":"C-117","AirCraftName":"C-117D Skytrain","AirCraftType":"Transport"}
+{"AirCraft":"C-119","AirCraftName":"Fairchild C-119 Flying Boxcar","AirCraftType":"Military Transport aircraft"}
+{"AirCraft":"C-123","AirCraftName":"Fairchild C-123 Provider ","AirCraftType":"Military Transport aircraft"}
+{"AirCraft":"C-130","AirCraftName":"Lockheed C-130 Hercules","AirCraftType":"Military Transport aircraft"}
+{"AirCraft":"C-47","AirCraftName":"Douglas C-47 Skytrain","AirCraftType":"Military Transport aircraft"}
+{"AirCraft":"C-54","AirCraftName":"Douglas C-54 Skymaster","AirCraftType":"Military Transport aircraft"}
+{"AirCraft":"C-7","AirCraftName":"C-7A Caribou ","AirCraftType":"Military Transport aircraft"}
+{"AirCraft":"C-76","AirCraftName":"Curtiss-Wright C-76 Caravan","AirCraftType":"Medium Transport"}
+{"AirCraft":"CH-46","AirCraftName":"Boeing Vertol CH-46 Sea Knight","AirCraftType":"Cargo Helicopter"}
+{"AirCraft":"CH-53","AirCraftName":"Sikorsky CH-53 Sea Stallion","AirCraftType":"Heavy-lift cargo helicopter"}
+{"AirCraft":"CH-3","AirCraftName":"Sikorsky CH-3E","AirCraftType":"Heavy-lift cargo helicopter"}
+{"AirCraft":"CH-47","AirCraftName":"Boeing CH-47 Chinook","AirCraftType":"Transport Helicopter"}
+{"AirCraft":"DC-4","AirCraftName":"Douglas DC-4","AirCraftType":"Airliner/transport aircraft"}
+{"AirCraft":"DC-8","AirCraftName":"Douglas DC-8","AirCraftType":"Airliner/transport aircraft"}
+{"AirCraft":"E-2","AirCraftName":"Northrop Grumman E-2 Hawkeye","AirCraftType":"Early Warning aircraft"}
+{"AirCraft":"E-3","AirCraftName":"E-3 Sentry ","AirCraftType":"Early Warning aircraft"}
+{"AirCraft":"EA-3","AirCraftName":"EA-3B Skywarrior","AirCraftType":"Heavy attack aircraft"}
+{"AirCraft":"EA-1","AirCraftName":"EA-1A Skyraider","AirCraftType":"Attack Aircraft"}
+{"AirCraft":"EA-6","AirCraftName":"Northrop Grumman EA-6B Prowler","AirCraftType":"Fighter Jet"}
+{"AirCraft":"EB-66","AirCraftName":"Douglas B-66 Destroyer","AirCraftType":"Light Tactical Bomber"}
+{"AirCraft":"EC-121","AirCraftName":"Lockheed EC-121 Warning Star","AirCraftType":"Airborne early warning and control"}
+{"AirCraft":"EC-47","AirCraftName":"Douglas C-47 Skytrain","AirCraftType":"Military Transport aircraft"}
+{"AirCraft":"EF-10","AirCraftName":"Douglas F3D Skyknight","AirCraftType":"Fighter Jet"}
+{"AirCraft":"EKA-3","AirCraftName":"Douglas A-3 Skywarrior","AirCraftType":"Strategic Bomber"}
+{"AirCraft":"EP-3","AirCraftName":"Lockheed EP-3 ","AirCraftType":"Signals Intelligence"}
+{"AirCraft":"F-8","AirCraftName":"Vought F-8 Crusader","AirCraftType":"Carrier-based Fighter Jet"}
+{"AirCraft":"F-100","AirCraftName":"North American F-100 Super Sabre","AirCraftType":"Jet Fighter Bomber"}
+{"AirCraft":"F-104","AirCraftName":"Lockheed F-104 Starfighter","AirCraftType":"Fighter Jet Bomber"}
+{"AirCraft":"F-105","AirCraftName":"Republic F-105 Thunderchief ","AirCraftType":"Fighter Jet Bomber"}
+{"AirCraft":"F-111","AirCraftName":"General Dynamics F-111 Aardvark","AirCraftType":"Fighter Jet Bomber"}
+{"AirCraft":"F-14","AirCraftName":"Grumman F-14 Tomcat","AirCraftType":"Fighter Jet"}
+{"AirCraft":"F-4","AirCraftName":"McDonnell Douglas F-4 Phantom II","AirCraftType":"Fighter Jet Bomber"}
+{"AirCraft":"F-5","AirCraftName":"Northrop F-5 ","AirCraftType":"Light fighter"}
+{"AirCraft":"F-10","AirCraftName":"Douglas F3D/F-10 Skynight ","AirCraftType":"Carrier-base all-weather night Fighter Jet"}
+{"AirCraft":"F-9","AirCraftName":"Grumman F-9 Cougar","AirCraftType":"Fighter Jet"}
+{"AirCraft":"FC-47","AirCraftName":"Douglas AC-47 Spooky","AirCraftType":"Close air support prop gunship"}
+{"AirCraft":"H-34","AirCraftName":"Sikorsky H-34 Choctaw","AirCraftType":"Close -Support Helicopter"}
+{"AirCraft":"H-47","AirCraftName":"Boeing CH-47 Chinook","AirCraftType":"Transport Helicopter"}
+{"AirCraft":"HC-130","AirCraftName":"Lockheed HC-130","AirCraftType":"Rescue Aircraft"}
+{"AirCraft":"HC-47","AirCraftName":"Douglas C-47 Skytrain","AirCraftType":"Military Transport aircraft"}
+{"AirCraft":"HH-3","AirCraftName":"Sikorsky HH-3 Jolly Green Giant","AirCraftType":"Search and Rescue Helicopter"}
+{"AirCraft":"HH-43","AirCraftName":"Kaman HH-43 Huskie","AirCraftType":"Rescue Helicopter"}
+{"AirCraft":"HH-53","AirCraftName":"Sikorsky HH-53 Super Green Giant","AirCraftType":"Heavy-lift Helicopter"}
+{"AirCraft":"KA3","AirCraftName":"Douglas A-3 Skywarrior","AirCraftType":"Strategic Bomber"}
+{"AirCraft":"KC-135","AirCraftName":"Boeing KC-135 Stratotanker","AirCraftType":"Aerial refuelling aircraft"}
+{"AirCraft":"L-19","AirCraftName":"Cessna L-19","AirCraftType":"Observation Aircraft"}
+{"AirCraft":"LC-130","AirCraftName":"Lockheed LC-130","AirCraftType":"Military Transport aircraft"}
+{"AirCraft":"NC-123","AirCraftName":"Fairchild C-123 Provider ","AirCraftType":"Transport Aircraft"}
+{"AirCraft":"O-1","AirCraftName":"Cessna O-1 Bird Dog","AirCraftType":"Observation Aircraft"}
+{"AirCraft":"O-2","AirCraftName":"Cessna O-2 Skymaster","AirCraftType":"Observation Aircraft"}
+{"AirCraft":"OH-6","AirCraftName":"Hughes OH-6 Cayuse","AirCraftType":"Light Observation Helicopter"}
+{"AirCraft":"OV-1","AirCraftName":"Grumman OV-1 Mohawk","AirCraftType":"Observation/ Light Attack Aircraft"}
+{"AirCraft":"OV-10","AirCraftName":"Rockwell OV-10 Bronco","AirCraftType":"Observation/ Light Attack Aircraft"}
+{"AirCraft":"P-3","AirCraftName":"Lockheed P-3 Orion","AirCraftType":"Maritime Patrol Aircraft"}
+{"AirCraft":"QU-22","AirCraftName":"Beechcraft Bonanza","AirCraftType":"Utility Aircraft"}
+{"AirCraft":"R44","AirCraftName":"Robinson R44","AirCraftType":"Light Utility Helicopter"}
+{"AirCraft":"RA-3","AirCraftName":"Douglas A-3 Skywarrior","AirCraftType":"Strategic Bomber"}
+{"AirCraft":"RB-66","AirCraftName":"Douglas RB-66 Destroyer","AirCraftType":"Light Bomber"}
+{"AirCraft":"RC-135","AirCraftName":"Boeing RC-135","AirCraftType":"Reconnaissance Aircraft"}
+{"AirCraft":"RC-47","AirCraftName":"Douglas C-47 Skytrain","AirCraftType":"Photographic reconnaissance plane"}
+{"AirCraft":"RF-101","AirCraftName":"McDonnell F-101 Voodoo","AirCraftType":"Fighter Jet"}
+{"AirCraft":"RF-4","AirCraftName":"McDonnell F-4 Phantom II","AirCraftType":"Fighter bomber jet"}
+{"AirCraft":"RF-8","AirCraftName":"Vought F-8 Crusader","AirCraftType":"Fighter jet "}
+{"AirCraft":"SH-3","AirCraftName":"Sikorsky SH-3 Sea King","AirCraftType":"Utility Helicopter"}
+{"AirCraft":"T-28","AirCraftName":"T-28 Trojan Trainer","AirCraftType":"Training Aircraft"}
+{"AirCraft":"T-29","AirCraftName":"Convair T-29 Samaritan","AirCraftType":"Training Aircraft"}
+{"AirCraft":"T-39","AirCraftName":"North American Sabreliner","AirCraftType":"Training Aircraft"}
+{"AirCraft":"T-41","AirCraftName":"Cessna T-41 Mescalero","AirCraftType":"Primary Pilot Trainer"}
+{"AirCraft":"TA-4","AirCraftName":"Douglas A-4 Skyhawk","AirCraftType":"Fighter Jet"}
+{"AirCraft":"TF9","AirCraftName":"Grumman F9F-8T (TF-9J) 'Cougar'","AirCraftType":"Fighter Jet"}
+{"AirCraft":"U-1","AirCraftName":"U-1 Otter","AirCraftType":"Cargo Prop plane"}
+{"AirCraft":"U-10","AirCraftName":"Helio Courier","AirCraftType":"Utility Prop plane"}
+{"AirCraft":"U-17","AirCraftName":"Cessna 185","AirCraftType":"Light Utility Plane"}
+{"AirCraft":"U-21","AirCraftName":"Beechcraft King Air","AirCraftType":"Light Utility Plane"}
+{"AirCraft":"U-3","AirCraftName":"Cessna 310","AirCraftType":"Light Utility Plane"}
+{"AirCraft":"U-6","AirCraftName":"U-6A Beaver","AirCraftType":"Training Aircraft"}
+{"AirCraft":"UH-1","AirCraftName":"Bell UH-1 Iroquois","AirCraftType":"Utility Helicopter"}
+{"AirCraft":"UH-2","AirCraftName":"Kaman SH-2 Seasprite","AirCraftType":"Anti-submarine helicopter"}
+{"AirCraft":"VC-54","AirCraftName":"Douglas VC-54C �Sacred Cow�","AirCraftType":"Transport Prop Plane"}
+{"AirCraft":"WC-130","AirCraftName":"Lockheed WC-130","AirCraftType":"Weather reconnaissance aircraft"}
+{"AirCraft":"YQU-22","AirCraftName":"Beechcraft Bonanza","AirCraftType":"Utility Aircraft"}
+{"AirCraft":"E-1","AirCraftName":"Grumman E-1 Tracer","AirCraftType":"Carrier-based Early Warning aircraft"}
+{"AirCraft":"F-102","AirCraftName":"CONVAIR F-102 Delta Dagger","AirCraftType":"Fighter Prop Plane"}
+{"AirCraft":"A-3","AirCraftName":"Douglas A-3 Skywarrior","AirCraftType":"Strategic Bomber"}
+{"AirCraft":"DC-6","AirCraftName":"Douglas DC-6","AirCraftType":"Airliner/transport aircraft"}
+{"AirCraft":"F-8","AirCraftName":"Vought F-8 Crusader","AirCraftType":"Fighter Jet"}
+{"AirCraft":"C-121","AirCraftName":"Lockheed Constellation","AirCraftType":"Airliner/ Transport"}
